@@ -88,8 +88,6 @@ java -version
 ## 🙋‍♂️ Author
 
 **Divyanshu Raj**  
-🛡️ Aspiring Cybersecurity Professional | Java | InfoSec  
-📬 [LinkedIn](https://www.linkedin.com)
 
 ## 📃 License
 
